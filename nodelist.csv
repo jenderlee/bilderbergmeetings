@@ -1,1 +1,558 @@
-
+id,name,sex,country,organisation,section,type,position
+2016,2016,NULL,NULL,NULL,NULL,j,2
+2017,2017,NULL,NULL,NULL,NULL,j,2
+2018,2018,NULL,NULL,NULL,NULL,j,2
+2019,2019,NULL,NULL,NULL,NULL,j,2
+2022,2022,NULL,NULL,NULL,NULL,j,2
+2023,2023,NULL,NULL,NULL,NULL,j,2
+2024,2024,NULL,NULL,NULL,NULL,j,2
+acvu,Arnold Croiset van Uchelen,m,NLD,Allen & Overy LLP,8,p,2
+ad,Anglade Dominique,w,CAN,Science and Innovation,6,p,2
+adad,Adewale Adeyemo,m,USA,Department of The Treasury,2,p,2
+adh,Avril D. Haines,w,USA,National Security Council (Deputy National Security Advisor to the President),2,p,2
+ado,Andrzej Domański,m,POL,Ministry of Finance,2,p,2
+ae,Andrea Ecker,w,AUT,Office Federal President of Austria,2,p,2
+afim,Anna Fontcuberta i Morral,w,CHE,EPFL,6,p,2
+ag,Alexander Gabuev,m,RUS,Carnegie Russia Eurasia Center,6,p,2
+agg,Antoine Gosset-Grainville,m,USA,Citadel LLC,1,p,2
+ah,Antti Herlin,m,FIN,KONE Corporation,1,p,2
+ahab,Ahmed Aboutaleb,m,NLD,City of Rotterdam,2,p,2
+aho,Anton Hofreiter,m,DEU,Chairman of the EU Committee,2,p,2
+ajag,Ajay Agrawal,m,CAN,University of Toronto,6,p,2
+ajt,Ashley J. Tellis,w,USA,Carnegie Endowment for International Peace,9,p,2
+ak,Alex Karp,m,USA,Palantir Technologies,1,p,1
+ako,Andrei Kolesnikov,m,RUS,Carnegie Endowment for International Peace,9,p,2
+aku,André Kudelski,m,CHE,Kudelski Group SA,1,p,2
+alal,Alberto Alesina,m,ITA,Harvard University,6,p,2
+albo,Albert Bourla,m,USA,Pfizer Inc.,1,p,2
+ali,Ann Linde,w,SWE,Ministry for Foreign Affairs (Former),2,p,2
+aloe,Annie Lööf,w,SWE,Party Leader and Centre Party,2,p,2
+ame,Arthur Mensch,m,FRA,Mistral AI,1,p,2
+amg,Adam M. Grant,m,USA,The Wharton School and University of Pennsylvania,6,p,2
+anad,Andrew Adonis,m,GBR,National Infrastructure Commission,2,p,2
+anadl,Anders Adlercreutz,m,FIN,Ministry for European Affairs and Ownership Steering,2,p,2
+anap,Anne Applebaum,w,USA,Washington Post,5,p,2
+anbo,Anna Borg,w,SWE,Vattenfall AB,1,p,2
+anbou,Anne Bouverot,w,FRA,Morpho,1,p,2
+anbr,Ana Brnabic,w,SRB,Serbian government (Prime Minister),2,p,2
+ancb,Anne-Catherine Berner,w,FIN,Finnish Parlament,2,p,2
+anch,Anatoly B. Chubays,m,RUS,London School of Economics,6,p,2
+anho,André Hoffmann,m,CHE,Roche Holding Ltd.,1,p,1
+ap,Alexis Papachelas,m,GRC,Kathimerini Newspaper,5,p,2
+apb,Ana P. Botín,w,ESP,Banco Santander,1,p,1
+api,Ana Pinho,w,PRT,Serralves Foundation,9,p,2
+apr,Agnès  Pannier-Runacher,w,FRA,Ministry of Agriculture,2,p,2
+ar,Amber Rudd,w,GBR,Home Department,2,p,2
+ard,Albert Rivera Díaz,m,ESP,Ciudadanos Party,2,p,2
+as,Alexander Schallenberg,m,AUT,Foreign Minister of Austria,2,p,2
+asch,Andreas Schieder,m,AUT,Social Democratic Party,2,p,2
+ast,Andrew Stern,m,USA,Economic Security Project,1,p,2
+asu,Alexander Stubb,m,FIN,Finnish Government (Former Prime Minister),2,p,2
+asub,Arvind Subramanian,m,USA,Brown University,6,p,2
+at,Andreas Treichl,m,AUT,Foundation,9,p,2
+auaz,Audrey Azoulay,w,FRA,UNESCO,9,p,2
+auec,Ahmet Ünal Ceviköz,m,TUR,Republican People's Party,2,p,2
+awa,Amy Walter,w,USA,The Cook Political Report,2,p,2
+ayu,Afsin Yurdakul,w,TUR,Habertürk News Network,5,p,2
+bar,Baiba A. Rubesa,w,LVA,RB Rail AS,1,p,2
+bb,Børge Brende,m,NOR,World Economic Forum,9,p,1
+be,Bernard Émié,m,FRA,Ministry of the Armed Forces,3,p,2
+beca,Bernard Cazeneuve,m,FRA,Goverment of France (Prime Minister),2,p,2
+beco,Benoît Coeuré,m,FRA,European Central Bank,1,p,2
+bega,Bélen Garijo,m,DEU,Merck KGaA,1,p,2
+belgien,Belgien,NULL,BEL,NULL,NULL,l,2
+bepr,Benjamin Pring,m,USA,Center for the Future of Work,1,p,2
+bepu,Benoît Puga,m,FRA,Grand Chancery of the Orders of the Nation,2,p,2
+bese,Beppe Severgnini,m,ITA,Corriere della Sera,5,p,2
+bh,Ben Hodges,m,USA,Center for European Policy Analysis,2,p,2
+bildungsinstitutionen,Bildungsinstitutionen,NULL,NULL,NULL,6,s,2
+bjco,Bjarne Corydon,m,DNK,Dagbladet Børsen,5,p,2
+bl,Bernard Looney,m,GBR,BP plc,1,p,2
+blm,Bruno Le Maire,m,FRA,Ministry of Finance,2,p,2
+bm,Bill Morneau,m,CAN,Ministry of Finance,2,p,2
+bmr,Beate Meinl-Reisinger,w,AUT,NEOS,2,p,2
+boe,Behluel Oezkan,m,TUR,Marmara University,6,p,2
+bosl,Boyan Slat,m,NLD,The Ocean Cleanup,2,p,2
+brde,Brian Deese,m,USA,National Economic Council,2,p,2
+brgi,Brian Gilvary,m,GBR,BP plc,1,p,2
+brpa,Bruno Patino,m,FRA,Arte France TV,5,p,2
+brst,Bret Stephens,m,USA,New York Times,5,p,2
+bt,Bruno Tertrais,m,FRA,Fondation pour la recherche stratégique,6,p,2
+bulgarien,Bulgarien,NULL,BUL,NULL,NULL,l,2
+bvb,Ben van Beurden,m,NLD,Royal Dutch Shell plc,1,p,2
+bvs,Bård Vegar Solhjell,m,NOR,WWF Norway,9,p,2
+bw,Björn Wahlroos,m,FIN,Sampo Group,1,p,2
+bwdm,Beatrice Weder di Mauro,w,CHE,University of Mainz,6,p,2
+by,Barçin Yinanç,w,TUR,T24 News Website,5,p,2
+ca,César Alierta,m,ESP,Telefónica,1,p,2
+cabe,Cathy Berx,w,BEL,Province of Antwerp,2,p,2
+caca,Cansu Çamlibel,w,TUR,Hürriyet Newspaper,5,p,2
+cacu,Carlos Cuerpo,m,ESP,Ministry of Economy Commerce and Business,2,p,2
+cada,Canan Dagdeviren,m,TUR,MIT Media Lab,6,p,2
+cadg,Caroline de Gruyter,w,NLD,NRC,5,p,2
+cam,Charles A. Murray,m,USA,American Enterprise Institute,2,p,2
+canu,Carlos Núñez,m,ESP,PRISA Media,5,p,2
+ce,Charles Emond,m,CAN,CDPQ,1,p,2
+cf,Chrystia Freeland,w,CAN,Ministry of Finance (Deputy Prime Minister),2,p,2
+cgds,Carlos Gomes da Silva,m,PRT,Galp Energia,1,p,2
+ch,Connie Hedegaard,w,DNK,KR Foundation,9,p,1
+chbe,Christine Beerli,w,CHE,International Committee of the Red Cross,9,p,2
+chca,Christopher Cavoli,m,USA,NATO und EUCOM (Kommandeur),3,p,2
+chco,Charles Cook,m,USA,The Cook Political Report,2,p,2
+chdc,Charlene de Carvalho,w,NLD,Heineken NV,1,p,2
+chdy,Christian Dyvig,m,DNK,Kompan,1,p,2
+chha,Chris Hadfield,m,CAN,Astronaut,6,p,2
+chho,Christine Hodgson,w,GBR,Capgemini UK plc,1,p,2
+china,China,NULL,CH,NULL,NULL,l,2
+chli,Christopher Liddell,m,USA,Chief Financial Officer,1,p,2
+chma,Christa Markwalder,w,CHE,Swiss National Council,2,p,2
+chse,Christian Sewing,m,DEU,Deutsche Bank AG,1,p,2
+cj,Conni Jonsson,m,SWE,EQT,1,p,2
+cjm,Craig J. Mundie,m,USA,Mundie & Associates,1,p,2
+ck,Carsten Kengeter,m,DEU,Deutsche Börse AG,1,p,2
+cl,Christine Lagarde,w,FRA,International Monetary Fund,1,p,2
+clbe,Clément Beaune,m,FRA,Office of the President of the Republic of France,2,p,2
+clco,Claudio Costamagna,m,ITA,Cassa Depositi e Prestiti S.p.A.,1,p,2
+clmc,Claire McCaskill,w,USA,NBC News,5,p,2
+cm,Charles Michel,m,BEL,Mouvement Réformateur (MR) Premierminister,2,p,2
+cr,Carlo Ratti,m,ITA,MIT Senseable City Lab,6,p,2
+cs,Constanze Stelzenmüller,w,DEU,The Brookings Institution,9,p,2
+ct,Cui Tiankai,m,CH,Reblublic of China,2,p,2
+cw,Celeste Wallander,w,USA,U.S. Department of Defense,3,p,2
+da,Dario Amodei,m,USA,Anthropic PBC,1,p,2
+db,Dominic Barton,m,CAN,McKinsey and Company,1,p,2
+de,Daniel Ek,m,SWE,Spotify,1,p,2
+denmark,Dänemark,NULL,DNK,NULL,NULL,l,2
+deutschland,Deutschland,NULL,DEU,NULL,NULL,l,2
+dh,Demis Hassabis,m,GBR,DeepMind,1,p,2
+dha,Dido Harding,w,GBR,TalkTalk Telecom Group plc,1,p,2
+dhp,David H. Petraeus,m,USA,KKR Global Institute,1,p,2
+dim,David I. McKay,m,CAN,Royal Bank of Canada,1,p,2
+djf,Douglas J. Flint,m,GBR,HSBC Holding plc,1,p,2
+dk,Danica Kragic,w,SWE,School of Computer Science and Communication,6,p,2
+dku,Dmytro Kuleba,m,UKR,Foreign Minister of Ukraine,2,p,2
+dl,David Lammy,m,GBR,"Commonwealth and Development Affairs, House of Commons",2,p,2
+dm,Dambisa Moyo,w,GBR,Economist,6,p,2
+dma,Divesh Makan,m,USA,ICONIQ Capital,1,p,2
+dmc,David M. Cote,m,USA,Honeywell,1,p,2
+dmo,Duarte Moreira,m,PRT,Zeno Partners,1,p,2
+dmr,David M. Rubin,m,USA,The Carlyle Group,1,p,2
+dn,Dominique Nora,w,FRA,L'Obs,5,p,2
+do,Deborah Orida,w,CAN,PSP Investments,1,p,2
+dp,Dimitri Papalexopoulos,m,GRC,Titan Cement Co.,1,p,1
+dr,Didier Reynders,m,BEL,European Commission (Justice),2,p,2
+ds,Diogo Salvi,m,PRT,TIMWETECH,1,p,2
+dsc,David S. Cohen,m,USA,CIA,7,p,2
+dvdb,Dolf van den Brink,m,NLD,Heineken NV,1,p,2
+dw,Darren Walker,m,USA,Ford Foundation,9,p,2
+dy,Daniel Yergin,m,USA,S&P Global,1,p,2
+dz,Dieter Zetsche,m,DEU,Daimler AG,1,p,2
+eb,Eamonn Brennan,m,IRL,Eurocontrol,2,p,2
+eba,Estela Barbot,w,PRT,Redes Energéticas Nacionais,1,p,2
+ebal,Evren Balta,w,TUR,"Associate Professor of Political Science, Özyegin University",6,p,2
+ec,Elena Cattaneo,w,ITA,Laboratory of Stem Cell Biology,6,p,2
+ech,Emmanuelle Charpentier,m,FRA,Max Planck Institute for Infection Biology,6,p,2
+ee,Elizabeth Economy,w,USA,Department of Commerce,2,p,2
+eer,Emre Erdogan,m,TUR,Istanbul Bilgi University,6,p,2
+ees,Eric E. Schmidt,m,USA,Google LLC,1,p,1
+eg,Etienne Gernelle,m,FRA,Le Point,5,p,2
+egg,Evan G. Greenberg,m,USA,Chubb Group,1,p,2
+egp,Esteban Gonzáles Pons,m,ESP,European People's Party,2,p,2
+ehe,Edeltraud Hanappi-Egger,w,AUT,Vienna University of Economics and Business,6,p,2
+el,Elina Lepomaeki,w,FIN,National Coalition Party,2,p,2
+eli,Erkki Liikanen,m,FIN,IFRS Foundation Trustees,9,p,1
+ep,Édouard Philippe,m,FRA,Assemblée Nationale,2,p,2
+esl,Eric S. Lander,m,USA,Broad Institute,6,p,2
+estland,Estland,NULL,EST,NULL,NULL,l,2
+ev,Eftichios Vassilakis,m,GRC,Aegean Group,1,p,2
+evs,Evan Siddall,m,CAN,Alberta Investment Management Corporation,1,p,2
+ew,Emma Walmsley,w,GBR,GlaxoSmithKline plc,1,p,2
+ey,Erja Yläjärvi,w,FIN,Helsingin Sanomat Newspaper,5,p,2
+fagi,Fabiola Gianotti,w,ITA,CERN,6,p,2
+fb,Franco Bernabè,m,ITA,CartaSi S.p.A.,1,p,2
+feme,Fernando Medina,m,PRT,Mayor of Lisbon,2,p,2
+fg,François Godement,m,FRA,Institut Montaigne,9,p,2
+finnland,Finnland,NULL,FIN,NULL,NULL,l,2
+fisi,Filipe Silva,m,PRT,Galp Energia,1,p,2
+fl,François Lenglet,m,FRA,France 2,5,p,2
+fm,Friedrich Merz,m,DEU,CDU,2,p,2
+fpb,Francisco Pinto Balsem√£o,m,PRT,Impresa Group,5,p,2
+fpc,François-Philippe Champagne,m,CAN,Ministry of Infractructure,2,p,2
+frankreich,Frankreich,NULL,FRA,NULL,NULL,l,2
+frbs,Frank Bsirske,m,DEU,United Services Union,1,p,2
+fs,Francesco Starace,m,ITA,Enel S.p.A.,1,p,2
+fz,Fareed Zakaria,m,USA,Fareed Zakaria GPS,5,p,2
+ga,Gabriel Attal,m,FRA,Bildungsminister Kabinett Borne,2,p,2
+gde,Giuliano da Empoli,m,ITA,Sciences Po,6,p,2
+geheimdienst,Geheimdienst,NULL,NULL,NULL,7,s,2
+ggw,Galen G. Weston,m,CAN,Loblaw Companies Ltd and George Weston Companies,1,p,2
+gh,Greg Hajdarowicz,m,POL,Gremi International Sarl,1,p,2
+ghoe,Guenther H. Oettinger,m,DEU,European Commission,2,p,2
+gk,Garry Kasparov,m,USA,Renew Democracy Initiative,9,p,2
+gl,George Logothetis,m,GRC,Libra Group,1,p,2
+gm,Giampiero Massolo,m,ITA,ISPI,6,p,2
+gmm,Gene M. Murtagh,m,IRL,Kingspan Group plc,1,p,2
+gmr,Gina M. Raimondo,w,USA,Secretary of Commerce,2,p,2
+go,George Osborne,m,GBR,London Evening Standard,5,p,2
+gp,George Pagoulatos,m,GRC,Professor at Athens University of Economics,6,p,2
+griechenland,Griechenland,NULL,GRC,NULL,NULL,l,2
+großbritannien,Großbritannien,NULL,GRB,NULL,NULL,l,2
+grs,Grace Reksten Skaugen,w,NOR,Investor AB,1,p,2
+gs,Guy Standing,m,GBR,University of London,6,p,2
+gwru,Gwendolyn Rutten,w,BEL,Open VLD,2,p,2
+gz,Gerhard Zeiler,m,AUT,Turner International,5,p,1
+hak,Henry A. Kissinger,m,USA,Kissinger Associates Inc.,1,p,2
+hcb,Hans-Christian Boos,m,DEU,Arago GmbH,1,p,2
+hdc,Henri de Castries,m,FRA,Institut Montaigne,9,p,2
+he,Henrik Ehrnrooth,m,FIN,Otava Group,5,p,2
+hepp,H.E. Pietro Parolin,m,VAT,Vatican Secretary of State,4,p,2
+hg,Helen Goodman,w,GBR,Labour Party,2,p,2
+hl,Helge Lund,m,GBR,BP plc,1,p,2
+hmtkotn,H.M. the King of the Netherlands,m,NLD,Royal House of the Netherlands,4,p,2
+hn,Hartmut Neven,m,USA,Google LLC,1,p,2
+hochadel,Hochadel,NULL,NULL,NULL,4,s,2
+hr,Heather Reisman,w,CAN,Indigo Books & Music Inc.,1,p,2
+hrk,Henry R. Kravis,m,USA,Kohlberg Kravis Roberts & Co.,1,p,1
+hrm,Herbert Raymond McMaster,m,USA,National Security Advisor,2,p,2
+hs,Hanne Skartveit,w,NOR,Verdens Gang,5,p,2
+hws,Hans-Werner Sinn,m,DEU,Ludwig Maximilian University of Munich,6,p,2
+ia,Ida Auken,w,DNK,The Social Democrat Party,2,p,2
+ial,Isabel Albers,w,BEL,De Tijd / L'Echo,5,p,2
+iar,Inés Arrimadas,w,ESP,Party Leader and Ciudadanos,2,p,2
+ic,Ignazio Cassis,m,CHE,Federal President of the Swiss Confederation,2,p,2
+ica,Ildefonso Castro,m,ESP,Partido Popular,2,p,2
+if,Isabel Furtado,w,PRT,TMG Automotive,1,p,2
+ig,Isabel Gil,w,PRT,Catholic University of Portugal,6,p,2
+ik,Ilham Kadri,w,BEL,Syensqo,1,p,2
+ikr,Ivan Krastev,m,BUL,Centre for Liberal Strategies,2,p,2
+im,Isabel Mota,w,PRT,Calouste Gulbenkian Foundation,9,p,2
+irland,Irland,NULL,IRL,NULL,NULL,l,2
+italien,Italien,NULL,ITA,NULL,NULL,l,2
+ja,James Appathurai,m,CAN,NATO,3,p,2
+jaj,James A. Johnson,m,USA,Johnson Capital Partners,1,p,2
+jan,Jamil Anderlini,m,USA,POLITICO Europe,5,p,2
+jb,Josep Borrell,m,ESP,European Commission,2,p,2
+jc,Jared Cohan,m,USA,Jigsaw at Alphabet Inc.,1,p,2
+jcr,José Creuheras,m,ESP,Grupo Planeta and Atresmedia,5,p,2
+jcry,John Cryan,m,DEU,Deutsche Bank AG,1,p,2
+jdw,James D. Wolfensohn,m,USA,Wolfensohn and Company,1,p,2
+jdz,Jeffrey D. Zients,m,USA,National Economic Council,2,p,2
+je,Jen Easterly,w,USA,Cybersecurity and Infrastructure Security Agency,2,p,2
+jel,John Elkann,m,ITA,Fiat Chrysler Automobiles,1,p,2
+jf,James Fallows,m,USA,The Atlantic,5,p,2
+jfi,Jonathan Finer,m,USA,NSC (National Security Council),2,p,2
+jfl,Jeremy Fleming,m,GBR,British Government Communications Headquarters,2,p,2
+jfr,Jane Fraser,w,USA,Citigroup,1,p,2
+jh,John Hickenlooper,m,USA,The democratic party,2,p,2
+jhb,James H. Baker,m,USA,Office of Net Assessment,3,p,2
+jhp,Jeanine Hennis-Plasschaert,w,NLD,The Netherlands,2,p,2
+jht,Jakob Haldor Topsøe,m,DNK,Haldor Tops√∏e Holding A/S,1,p,2
+jj,Julia Jäkel,w,DEU,Gruner und Jahr,5,p,2
+jjr,José Juan Ruiz,m,ESP,Elcano Royal Institute,6,p,2
+jk,Jared Kushner,m,USA,Senior Advisor to the President and The White House,2,p,2
+jka,Joe Kaeser,m,DEU,Siemens AG,1,p,2
+jke,John Kerr,m,GBR,Scottish Power,1,p,2
+jku,Jörg Kukies,m,DEU,German Chancellery,2,p,2
+jla,José Luis Arnaut,m,PRT,CMS Rui Pena & Arnaut,8,p,2
+jlc,Juan Luis Cebrián,m,ESP,PRISA and El Pa√≠s,5,p,2
+jm,Javier Monzón,m,ESP,PRISA,5,p,2
+jma,José Manuel Albares,m,ESP,European Union and Cooperation,2,p,2
+jmb,Jean-Michel Blanquer,m,FRA,Youth and Community Life,9,p,2
+jmda,José Manuel Barroso,m,PRT,Goldman Sachs International LLC,1,p,1
+jme,José M. Entrecanales,m,ESP,Acciona SA,1,p,2
+jmh,Jean Marc Huët,m,NLD,Heineken NV,1,p,2
+jmi,John Micklethwait,m,USA,Bloomberg LP,1,p,1
+jnsa,Johann N. Schneider-Ammann,m,CHE,Swiss National Bank,1,p,2
+job,John O. Brennan,m,USA,Kissinger Associates Inc.,1,p,2
+joe,James O. Ellis,m,USA,Users Advisory Group and National Space Council,2,p,2
+jp,Jolanta Pienkowska,w,POL,TVN,5,p,2
+jr,Johan Rockström,m,SWE,Potsdam Institute for Climate Impact Research,6,p,2
+jra,Jüri Ratas,m,EST,Government of Estonia (Prime Minister),2,p,2
+jro,Johanna Rosén,w,SWE,Professor in Materials Physics at Linköping University,6,p,2
+js,Jake Sullivan,m,USA,National Security Council,2,p,2
+jsa,Janis Sarts,m,LVA,NATO,3,p,2
+jsaw,John Sawers,m,GBR,Macro Advisory Partners,1,p,1
+jsp,Jens Spahn,m,DEU,Parliamentary State Secretary and Federal Ministry of Finance,2,p,2
+jst,Jens Stoltenberg,m,NOR,NATO,3,p,2
+jt,Jing Tsu,w,USA,Yale University,6,p,2
+jtm,Jessica T. Mathews,w,USA,Carnegie Endowment for International Peace,9,p,2
+ju,Jessica Uhl,w,NLD,Royal Dutch Shell plc,1,p,2
+jw,Jacob Wallenberg,m,SWE,Investor AB,1,p,2
+jwa,John Waldron,w,USA,The Goldman Sachs Group,1,p,2
+jwar,Jonathan Ward,m,USA,Hudson Institute,6,p,2
+kabu,Kathalijne Buitenweg,w,NLD,Green Party,2,p,2
+kaka,Kaja Kallas,w,EST,Government of Estonia (Prime Minister),2,p,2
+kaki,Kasia Kieli,w,POL,Warner Bros. Discovery Poland,5,p,2
+kanada,Kanada,NULL,CAN,NULL,NULL,l,2
+kasa,Karim Sadjadpour,m,USA,Carnegie Endowment for International Peace,9,p,2
+kb,Kjerstin Braathen,w,NOR,DNB ASA,1,p,2
+kba,Kjetil B. Alstadheim,m,NOR,Dagens Næringsliv,5,p,2
+kc,Kristin Clemet,w,NOR,Civita,2,p,2
+kcg,Kenneth C. Griffin,m,USA,Citadel LLC,1,p,2
+kd,Koenraad Debackere,m,BEL,KBC Group,1,p,2
+kegr,Kenneth Griffin,m,USA,Citadel LLC,1,p,2
+kg,Kadri Gürsel,m,TUR,Medyascope,5,p,2
+kh,Kevin Harrington,m,USA,Thiel Capital LLC,1,p,2
+khwk,Klaas H.W. Knot,m,NLD,De Nederlandsche Bank,1,p,2
+kj,Kristin Jensen,w,DNK,Green Power Denmark,1,p,2
+klkl,Klaus Kleinfeld,m,USA,Alcoa,1,p,2
+klsc,Klaus Schwab,m,DEU,World Economic Forum,9,p,2
+km,Kyriakos Mitsotakis,m,GRC,New Democracy Party,2,p,2
+kmj,Kenneth M. Jacobs,m,USA,Lazard Frères & Co. LLC,1,p,2
+kn,Kaius Niemi,m,FIN,Helsingin Sanomat Newspaper,5,p,2
+ko,Kajsa Ollongren,w,NLD,State Secretariat for Internal and Kingdom Affairs,2,p,2
+kp,Kyriakos Pierrakakis,m,GRC,Ministry of Digital Governance,2,p,2
+krge,Kristalina Georgieva,m,BUL,European Commission,2,p,2
+ks,Kevin Scott,m,USA,Microsoft Corporation,1,p,2
+ksl,Kristin Skogen Lund,w,NOR,The Confederation of Norwegian Enterprise,1,p,2
+kuca,Kurt Campbell,m,USA,NSC (National Security Council),2,p,2
+kv,Karel Verhoeven,m,BEL,De Standaard,5,p,2
+kysi,Kyrsten Sinema,w,USA,U.S. Senate,2,p,2
+la,Louise Arbour,w,CAN,Borden Ladner Gervais LLP,8,p,2
+lafi,Lars Findsen,m,DNK,Danish Defence Intelligence Service,7,p,2
+lbs,Lorenzo Bini Smaghi,m,ITA,Societé Générale SA,1,p,2
+lc,Lucio Caracciolo,m,ITA,Limes,6,p,2
+ldg,Luis de Guindos,m,ESP,Ministry of Economy,2,p,2
+leca,Levent Çakiroglu,m,TUR,Koç Holding A.S.,1,p,2
+lettland,Lettland,NULL,LVA,NULL,NULL,l,2
+lf,Laurent Fabius,m,FRA,Constitutional Council,8,p,2
+lg,Lilli Gruber,w,ITA,La7 TV,5,p,2
+lh,Lena Hallengren,w,SWE,Ministry of Social Affairs,2,p,2
+lhs,Lawrence H. Summers,m,USA,Harvard University,6,p,2
+ligr,Lindsey Graham,m,USA,U.S. Senate,2,p,2
+ll,Livia Leu,w,CHE,Federal Department of Foreign Affairs,2,p,2
+lm,Lisa Monaco,w,USA,Department of Homeland Security (Former Homeland Security Officer),2,p,2
+lt,Linda Teuteberg,w,DEU,Free Democratic Party,2,p,2
+luga,Luis Garicano,m,ESP,LSE and Senior Advisor to Ciudadanos,6,p,2
+lv,Leo Varadkar,m,IRL,Irish Government (Former Prime Minister),2,p,2
+lw,Leon Wieseltier,m,USA,The Brookings Institution,9,p,2
+ma,Magdalena Andersson,w,SWE,Swedish Riksdag,2,p,2
+maal,Marco Alverà,m,ITA,zhero.net CEO TES,1,p,1
+maap,Matti Apunen,m,FIN,Finnish Business and Policy Forum EVA,1,p,2
+mabr,Martin Brudermüller,m,DEU,BASF SE,1,p,2
+mada,Marta Dassù,w,ITA,European Affairs,2,p,2
+madan,Matthew Daniels,m,USA,Office of the Secretary of Defense,2,p,2
+mahi,Martina Hirayama,w,CHE,Research and Innovation,2,p,2
+makr,Martin Krasnik,m,DNK,Weekendavisen,5,p,2
+mali,Mark Little,m,CAN,Suncor Energy Inc.,1,p,2
+malta,Malta,NULL,MLT,NULL,NULL,l,2
+mama,Mariana Mazzucato,w,ITA,University College London,6,p,2
+mamo,Mario Monti,m,ITA,Italian Senate,2,p,2
+mamol,Maurizio Molinari,m,ITA,La Stampa,5,p,2
+mara,Maria Rankka,w,SWE,Stockholm Chamber of Commerce,1,p,2
+mare,Matteo Renzi,m,ITA,Senate of the Italian Republic,2,p,2
+masa,Martina Salomon,w,AUT,Kurier,5,p,2
+masc,Margaritis Schinas,w,GRC,European Commission,2,p,2
+mase,Mark Sedwill,m,GBR,Atlantic Futures Forum,2,p,2
+masef,Maroš Šefčovič,m,SVK,European Commission,2,p,2
+matu,Mark Tucker,m,GBR,HSBC Holding plc,1,p,2
+mave,Martin Vetterli,m,CHE,NSF,6,p,2
+mb,Marco Buschmann,m,DEU,Federal Ministry of Justice,2,p,2
+mc,Mark Carney,m,CAN,Brookfield Asset Management,1,p,1
+mch,Michael C. Horowitz,m,USA,University of Pennsylvania,6,p,2
+md,Mathias Döpfner,m,DEU,Axel Springer SE,5,p,1
+mdv,Michele Della Vigna,m,ITA,Natural Resources Research EMEA Goldman Sachs,1,p,2
+meb,M. Elaine Bunn,w,USA,U.S. Department of Defense,3,p,2
+medien,Medien,NULL,NULL,NULL,5,s,2
+memc,Megan McArdle,w,USA,Bloomberg View,5,p,2
+mesi,Mehmet Şimşek,m,TUR,Ministry of Finance (Vice President Türkiye),2,p,2
+mesit,Metin Sitti,m,TUR,Max Planck Institute for Intelligent Systems,6,p,2
+mf,Mette Frederiksen,w,DNK,Denesh government (Prime Minister),2,p,2
+mfc,Mehmet Fatih Ceylan,m,TUR,Ankara Policy Center,2,p,2
+mg,Michael Gove,m,GBR,Cabinet Office,1,p,2
+mh,Mellody Hobson,w,USA,Ariel Investments LLC,1,p,1
+mhw,Martin H. Wolf,m,GBR,Financial Times,5,p,2
+military,Militär,NULL,NULL,NULL,3,s,2
+mire,Mithat Rende,m,TUR,TSKB,1,p,2
+misa,Michael Sabia,m,CAN,Caisse de dépôt et placement du Québec,1,p,2
+mish,Minouche Shafik,m,GBR,The London School of Economics and Political Science,6,p,2
+mjc,Mark J. Carney,m,CAN,Bank of England,1,p,1
+mjk,Marie-Josée Kravis,w,USA,Hudson Institute,6,p,1
+mk,Michael Kofman,m,USA,Russia Studies Program and Center for Naval Analysis,2,p,2
+mkh,Mary Kay Henry,w,USA,Service Employees International Union,9,p,2
+ml,Martin Lundstedt,m,SWE,Volvo Group,1,p,2
+mla,Maria Luís Albuquerque,w,PRT,Social Democratic Party,2,p,2
+mm,Michael Mullen,m,USA,Johns Hopkins University Applied Physics Laboratory,6,p,2
+mn,Michael Noonan,m,IRL,Ministry of Finance,2,p,2
+mol,Michael O'Leary,m,IRL,Ryanair Group,1,p,1
+mp,Matthew Pottinger,m,USA,Hoover Institution,6,p,2
+mr,Mark Rutte,m,NLD,Dutch Government (Premierminister),2,p,2
+msda,Miguel Stilwell de Andrade,m,PRT,EDP,1,p,2
+mt,Matthew Turpin,m,USA,National Security Council,2,p,2
+muak,Mustafa Akyol,m,TUR,Freedom Project at Wellesley College,6,p,2
+muau,Murray Auchincloss,m,GBR,BP plc,1,p,2
+mv,Markos Veremis,m,GRC,Upstream,1,p,2
+mvh,Madeleine von Holzen,w,CHE,Le Temps,5,p,2
+mw,Marcus Wallenberg,m,SWE,Skandinaviska Enskilda Banken AB,1,p,1
+my,Murat Yetkin,m,TUR,Hürriyet Newspaper,5,p,2
+nb,Nick Bostrom,m,GBR,Future of Humanity Institute,6,p,2
+nba,Nicolas Baverez,m,FRA,Gibson,8,p,2
+nc,Nadia Calviño,w,ESP,European Investment Bank,1,p,2
+nf,Niall Ferguson,m,USA,Harvard University,6,p,2
+ngo,Nicky Goulimis,w,GRC,Nova Credit Inc.,1,p,2
+nho,Nicholas Houghton,m,GBR,Ministry of Defence (Former Chief of Defence),3,p,2
+niederlande,Niederlande,NULL,NLD,NULL,NULL,l,2
+nke,Niki Kerameus,w,GRC,Ministry for the Interior,2,p,2
+nkk,Niki K. Kerameus,w,GRC,Kerameus & Partners,8,p,2
+norwegen,Norwegen,NULL,NOR,NULL,NULL,l,2
+nr,Norbert Rötgen,m,DEU,Federal Parliament,2,p,2
+ns,Nadia Schadlow,w,USA,Hudson Institute,6,p,1
+nse,Nuno Sebastião,m,PRT,Feedzai,1,p,2
+nw,Ngaire Woods,w,GBR,Blavatnik School of Government,6,p,2
+ob,Oliver Bäte,m,DEU,Allianz SE,1,p,2
+obl,Olivier Blanchard,m,FRA,Peterson Institute,6,p,2
+oe,Øyvind Eriksen,m,NOR,Aker ASA,1,p,2
+oek,Ömer Koç,m,TUR,Koç Holding A.S.,1,p,1
+oesterreich,Österreich,NULL,AUT,NULL,NULL,l,2
+om,Oksana Markarowa,w,UKR,Embassy of Ukraine,2,p,2
+oo,Onora O'Neill,w,GBR,University of Cambridge,6,p,2
+pa,Paula Amorim,w,PRT,Américo Amorim Group,1,p,2
+pat,Peter Thiel,m,USA,Thiel Capital LLC,1,p,1
+pb,Patricia Barbizet,w,FRA,Temaris & Associés SAS,1,p,1
+pc,Pablo Casado,m,ESP,Partido Popular,2,p,2
+pca,Patrice Caine,m,FRA,Thales Group,1,p,2
+pco,Patrick Collison,m,USA,Stripe,1,p,2
+pd,Paschal Donohoe,m,IRL,Public Expenditure and Reform,2,p,2
+pg,Paolo Gentiloni,m,ITA,European Commission (Economy),2,p,2
+phdc,Pablo Hernández de Cos,m,ESP,Banco de España,1,p,2
+pjr,Pedro J. Ramírez,m,ESP,El Español,5,p,2
+pl,Palmer Luckey,m,USA,Anduril Industries,1,p,2
+ple,Peter Lee,m,USA,Microsoft Research,1,p,2
+pma,Paul M. Achleitner,m,DEU,Deutsche Bank AG and Treasurer Bilderberg Meetings,1,p,2
+pmac,Paul Michael Achleitner,m,DEU,Deutsche Bank AG,1,p,2
+pmb,Philip M. Breedlove,m,USA,NATO,3,p,2
+pn,Peggy Noonan,w,USA,Wall Street Journal,5,p,2
+polen,Polen,NULL,POL,NULL,NULL,l,2
+politik,Politik,NULL,NULL,NULL,2,s,2
+portugal,Portugal,NULL,PRT,NULL,NULL,l,2
+pp,Patrick Pichette,m,CAN,iNovia Capital,1,p,2
+ppo,Patrick Pouyanné,m,FRA,TotalEnergies SE,1,p,2
+prw,Pamela Rendi-Wagner,w,AUT,European Centre for Disease Prevention and Control,9,p,2
+psu,Pietro Supino,m,CHE,Tamedia Group,5,p,2
+pth,Peter Thiel,m,USA,Thiel Capital LLC,1,p,1
+pw,Peter Wennink,m,NLD,ASML Holding NV,2,p,2
+pws,Peter Warren Singer,m,USA,New America,1,p,2
+pwu,Pierre Wunsch,m,BEL,National Bank of Belgium,1,p,2
+rb,René Benko,m,AUT,SIGNA Holding GmbH,1,p,2
+rbz,Robert B. Zoellick,m,USA,AllianceBernstein L.P.,1,p,2
+rca,Roger C. Altman,m,USA,Evercore,1,p,2
+rd,Robert Dudley,m,GBR,BP plc,1,p,2
+re,Richard Engel,m,USA,NBC News,5,p,2
+recht,Recht,NULL,NULL,NULL,8,s,2
+rer,Robert E. Rubin,m,USA,Council on Foreign Relations and Former Treasury Secretary,2,p,2
+reru,Robert E. Ruoff,m,USA,Council on Foreign Relations and Former Treasury Secretary,2,p,2
+rg,Refet Gürkaynak,m,TUR,Bilkent University,6,p,2
+rgo,Rebecca Goldstein,w,USA,New York University,6,p,2
+rh,Ralph Hamers,m,NLD,UBS Group AG,1,p,2
+rho,Reid Hoffman,m,USA,LinkedIn,1,p,2
+rhp,Richard H. Phillips,m,USA,Office of the Director of National Intelligence,2,p,2
+rjg,Richard J. Gnodde,m,IRL,Goldman Sachs International LLC,1,p,2
+rk,Renate Koecher,w,DEU,Allensbach Institute for Public Opinion Research,6,p,2
+rl,Richard Levin,m,USA,Coursera,1,p,2
+rli,Robert Lighthizer,m,USA,Center for American Trade,6,p,2
+rls,Randall L. Stephenson,m,USA,AT&T,1,p,2
+rm,Roberta Metsola,w,MLT,European Parliament,2,p,2
+rs,Radoslaw Sikorski,m,POL,Harvard University,6,p,2
+rsc,Rudolf Scholten,m,AUT,Oesterreichische Kontrollbank AG,1,p,2
+rt,Rafal Trzaskowski,m,POL,Mayor of Warsaw,2,p,2
+russland,Russland,NULL,RUS,NULL,NULL,l,2
+rvr,Rolly van Rappard,m,NLD,CVC Capital Partners,1,p,2
+rwfj,Roger W. Ferguson Jr.,m,USA,TIAA,1,p,2
+rz,Robert Zadrazil,m,AUT,UniCredit Group,1,p,2
+sa,Sam Altman,m,USA,Y Combinator,1,p,2
+sad,Senem Aydin-Düzgit,w,TUR,Istanbul Bilgi University,6,p,2
+sama,Sara Mazur,w,SWE,Investor AB,1,p,2
+sb,Sally Benson,w,USA,Stanford University,6,p,2
+sc,Simon Coveney,m,IRL,Ministry for Enterprise and Trade and Employment (Former),2,p,2
+schweden,Schweden,NULL,SWE,NULL,NULL,l,2
+schweiz,Schweiz,NULL,CHE,NULL,NULL,l,2
+scma,Scott Malcomson,m,USA,Monere Ltd.,1,p,2
+sd,Selva Demiralp,w,TUR,Professor of Economics at Koç University,6,p,2
+sdc,Sol Daurella Comadrán,m,ESP,Coca-Cola Europacific Partners plc,1,p,2
+se,Sergio Ermotti,m,CHE,Swiss Re,1,p,2
+serbien,Serbien,NULL,SRB,NULL,NULL,l,2
+sf,Stefano Feltri,m,ITA,Il Fatto Quotidiano,5,p,2
+sg,Sandro Gozi,m,ITA,Italia Viva,2,p,2
+shdi,Sharon Dijksma,w,NLD,Ministry of Economy,2,p,2
+sj,Shashank Joshi,m,GBR,The Economist,5,p,2
+sk,Sigrid Kaag,w,NLD,Ministry of Forgein Affairs,2,p,2
+skoe,Sebnem Kalemli-Özcan,w,TUR,Brown University,6,p,2
+sm,Sanna Marin,w,FIN,Institute for Global Change,9,p,2
+smb,Sylvia M. Burwell,w,USA,American University,6,p,2
+sn,Satya Nadella,m,USA,Microsoft,1,p,1
+soe,Soli Özel,m,TUR,Kadir Has University,6,p,2
+sojo,Sonja Jost,w,DEU,DexLeChem,1,p,2
+sozial,Sozialer/Gemeinnütziger Sektor,NULL,NULL,NULL,9,s,2
+sp,Søren Pind,m,DNK,Danish Cyber Defence,3,p,2
+spanien,Spanien,NULL,ESP,NULL,NULL,l,2
+sr,Salvatore Rossi,m,ITA,Bank of Italy,1,p,2
+srb,Svein Richard Brandtzæg,m,NOR,Norwegian University of Science and Technology,6,p,2
+ss,Silvija Seres,w,NOR,Independent Investor,1,p,2
+ssds,Soraya Sáenz de Santamaría,w,ESP,Government of Spain,2,p,2
+st,Stanislaw Tillich,m,DEU,Saxon state government (Prime Minister),2,p,2
+stab,Stacey Abrams,w,USA,Sage Works Production,5,p,1
+stfi,Stanley Fischer,m,USA,Bank of Israel,1,p,2
+stko,Stephen Kotkin,m,USA,Princeton University,6,p,2
+sue,Sinan Ülgen,m,TUR,Istanbul Economics,1,p,2
+sukl,Susanne Klatten,w,DEU,SKion GmbH,1,p,2
+suru,Susanne Ruoff,w,CHE,Swiss Post,1,p,2
+sv,Shriti Vadera,w,GBR,Prudential plc,1,p,2
+sw,Sharon White,w,GBR,Ofcom,5,p,2
+sygo,Sylvie Goulard,w,FRA,Mouvement Démocrate Party,2,p,2
+ta,Thomas Ahrenkiel,m,DNK,Ministry of Defence,2,p,2
+tb,Thomas Buberl,m,FRA,AXA SA,1,p,2
+tc,Tarun Chhabra,m,USA,National Security Council,2,p,2
+tdm,Thomas de Maizière,m,DEU,Federal Ministry of the Interior,2,p,2
+te,Thomas Enders,m,DEU,Airbus SE,1,p,2
+tga,Timothy Garton Ash,m,GBR,Professor of European Studies at Oxford University,6,p,2
+th,Tim Hwang,m,USA,Harvard-MIT Ethics and Governance of AI Initiative,6,p,2
+thby,Thomas Byrne,m,IRL,Minister of State for Sport,2,p,2
+theb,Thomas Ebeling,m,DEU,ProSiebenSat.1 Media SE,5,p,2
+tiho,Timotheus Höttges,m,DEU,Deutsche Telekom AG,1,p,2
+tith,Tidjane Thiam,m,CHE,Credit Suisse Group AG,1,p,2
+tjm,Tom-Jan Meeus,m,NLD,NRC,5,p,2
+tl,Thomas Leysen,m,BEL,KBC Group,1,p,1
+tm,Terence McAuliffe,m,USA,Virginia,2,p,2
+toco,Tom Cotton,m,USA,Republic Party U.S.,2,p,2
+tolu,Tobias Lütke,m,CAN,Shopify,1,p,2
+ts,Timothy Snyder,m,USA,Yale University,6,p,2
+tt,Tom Tugendhat,m,GBR,Conservative Party,2,p,2
+turkey,Türkei,NULL,TUR,NULL,NULL,l,2
+tvc,Tarun Chhabra,m,USA,National Security Council,2,p,2
+tvds,Tinne Van der Straeten,w,BEL,Ministry of Energy,2,p,2
+tw,Thomas Wright,m,USA,NSC (National Security Council),2,p,2
+uf,Ulrik Federspiel,m,DNK,Haldor Topsøe Holding A/S,1,p,2
+ug,Ulrich Grillo,m,DEU,Grillo-Werke AG (President),1,p,2
+uk,Ulf Kristersson,m,SWE,Moderate Party (Leader),2,p,2
+ukraine,Ukraine,NULL,UKR,NULL,NULL,l,2
+um,Ueli Maurer,m,CHE,President of the Swiss Federation and Federal Councillor of Finance,2,p,2
+unitedstates,USA,NULL,USA,NULL,NULL,l,2
+uvdl,Ursula von der Leyen,w,DEU,Federal Minstry of Defence,2,p,2
+uvk,Ulrik Vestergaard Knudsen,m,DNK,OECD,9,p,2
+vatikan,Vatikan,NULL,VAT,NULL,NULL,l,2
+vb,Valérie Baudson,w,FRA,Amundi SA,1,p,1
+vc,Vittorio Colao,m,ITA,Vodafone Group,1,p,2
+vh,Victor Halberstadt,m,NLD,Leiden University,6,p,1
+vhe,Vidar Helgesen,m,NOR,Ministry for Climate and Environment,2,p,2
+vjo,Vernon Jordan,m,USA,Lazard Frères & Co. LLC,1,p,2
+wb,Werner Baumann,m,DEU,Bayer AG,1,p,2
+wcd,William C. Dudley,m,USA,Princeton University,6,p,2
+wh,Wopke Hoekstra,m,NLD,Ministry of Finance,2,p,2
+wi,Wolfgang Ischinger,m,DEU,Munich Security Conference,2,p,2
+wirtschaft,Wirtschaft,NULL,NULL,NULL,1,s,2
+wjb,William J. Burns,m,USA,CIA,7,p,2
+wk,Wojciech Kostrzewa,m,POL,Polish Business Roundtable,1,p,2
+wlr,Wilbur L. Ross,m,USA,Secretary of Commerce,2,p,2
+wrm,Walter Russel Mead,m,USA,Hudson Institute,6,p,2
+wrs,Wendy R. Sherman,w,USA,U.S. Department of State (Former Deputy Secretary of State),2,p,2
+ws,Wael Sawan,m,GBR,Shell plc,1,p,2
+wsc,Wolfgang Schäuble,m,DEU,Ministry of Finance,2,p,2
+wsch,Wolfgang Schmidt,m,DEU,Federal Ministry for Special Tasks,2,p,2
+yb,Yoshua Bengio,m,CAN,University of Montreal,6,p,2
+yf,Yaya Fanusie,m,USA,Center for a New American Security,2,p,2
+yj,Ylva Johansson,w,SWE,European Commission (Home Affairs),2,p,2
+yk,Yasmine Kherbache,w,BEL,Flemish Parliament,2,p,2
+yl,Yann LeCun,m,USA,Facebook Inc.,1,p,2
+yv,Yuriy Vitrenko,m,UKR,Naftogaz,1,p,2
+yy,Yuan Yang,w,GBR,Financial Times,5,p,2
+zmb,Zanny Minton Beddoes,w,GBR,The Economist,5,p,1
