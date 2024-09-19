@@ -1,9 +1,13 @@
-id	name 	position	section	country	age	relation	weight	sex
-Inizalien des Teilnehmers	Name des Teilnehmers 	Stellung im UN	1 = Wirtschaft 	Wirkungsland 	Alter des Teilnehmers 	Jahr der Teilnahme	Wie oft war jemand dabei?	Geschlecht des Teilnehmers 
-			2 = Politik			1 = 2016	Zahlen bis 6	
-			3 = Militär			2 = 2017		
-			4 = Hochadel			3 = 2018		
-			5 = Medien			4 = 2019		
-			6 = Hochschulen 			5 = 2022		
-			7 = Geheimdienst			6 = 2023		
-			8 = Recht			7 = 2024		
+id	name 	sex	age	country	section	organisation	type	position	relation
+Initialien des Teilnehmers	Vor- und Nachname des Teilnehmers 	Geschlecht des Teilnehmers 	"Alter der Mitglieder zum Zeitpunkt 
+des Treffens "	Herkunftsland 	1 = Wirtschaft 	Name der Organisation	j = Jahr  	1 = leading position	1 = Teilnahme am Meeting
+Regel: 		m = männlich 		"Mit jeweiligen Kürzel aus Mitgliedertabelle 
+(Bsp. ITA - Italien)"	2 = Politik	Bsp: Goldman Sachs International	p = Person 	2 = no leading position	2 = Herkunftsland
+Anfangsbuchstabe Vorname		w = weiblich 			3 = Militär		s = Sektion		3 = Berufsfeld
+Anfangsbuchstabe Nachname					4 = Hochadel		l = Land		
+Achtung! Bei Dopplung:					5 = Medien				
+Ersten zwei Buchstaben Vorname					6 = Hochschulen 				
+Erster Buchstabe Nachname					7 = Geheimdienst				
+usw.					8 = Recht				
+					9 = Sozialer Sektor				
+					10 = Kunst				
